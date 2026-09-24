@@ -1,0 +1,6 @@
+{
+  "name": "FabriControl ERP - Gestión de Producción y Costeo",
+  "description": "Sistema integral de gestión para plantas de producción: control de insumos, formulación de recetas, validación de stock, facturación electrónica y reportes de rentabilidad real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
